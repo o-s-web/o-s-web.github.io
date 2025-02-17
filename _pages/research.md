@@ -22,7 +22,7 @@ feature_row:
     url: /research_iOM4/
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: geometrySH23.pdf
+  - image_path: geometrySH23.png
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Marine Ice-Sheet Dynamics"
