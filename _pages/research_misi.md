@@ -25,6 +25,6 @@ Together with [Marianne Haseloff](https://geoscience.wisc.edu/people/haseloff-ma
 The question [*Weertman* (1974)](https://doi.org/10.3189/S0022143000023327356) asked was about a marine ice sheet in a climate that never changed. The Earth's climate changes on many time scales ranging from hundreds of thousands of years due to changes in the Earth's orbit to few years due to the internal climate variability, such as [ENSO](https://en.wikipedia.org/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation), for example. If the climate conditions change, marine ice sheets and their grounding lines can behave in many different ways - advancing, retreating or oscillating. If the climate conditions change, it is no longer possible to describe marine ice sheets as "stable" or "unstable" ([*Sergienko & Haseloff*, 2023](https://doi.org/10.1017/jog.2023.40)) and the grounding line advance and retreat is caused by the changes in climate conditions ([*Sergienko & Wingham*, 2024](https://doi.org/10.1017/jog.2024.43)). 
 
 
-If you like to know more about physics behind **MISI**, please take a look at a recording of a seminar I presented at the International Glaciological Society seminar series back in 2021.
+If you like to know more about physics behind **MISI**, please take a look at a recording of a seminar I presented at the [International Glaciological Society](https://igsoc.org) seminar series back in 2021.
 {% include video id="yMkBDieceS4?start=139" provider="youtube" %}
 
