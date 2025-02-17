@@ -13,7 +13,7 @@ header:
 iOM is a global ocean-cryosphere model with all components of the polar cryosphere -- ice sheets, sea ice and icebergs -- coupled to the ocean. 
 
 <p align="center">
-  <img src="/images/iOM_symbols.pdf" alt="iOM schematic" style="width: 600px;"/>
+  <img src="/images/iOM_symbols.png" alt="iOM schematic" style="width: 600px;"/>
 </p>
 
 [**MOM6**](https://github.com/NOAA-GFDL/MOM6-examples/wiki), is the ocean component. Among its many unique features, **MOM6** has an ability to represent the vertical ocean structure in any kind of vertical coordinates, such as geopotential, isopycnal, terrain-following, or any other [(*Adcroft et al.*,2019)](https://doi.org/10.1029/2019MS001726). Such capabilities allow it to accurately represent circulation in sub-ice-shelf cavities and their evolution, including due to the migration of the grounding lines.
