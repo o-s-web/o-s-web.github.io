@@ -15,7 +15,7 @@ header:
 intro:
   - excerpt: "Over the years I have investigated a large number of different research problems. These are a few projects that I am currently working on. To get a flavor of my other research topics please take a look at my [publications](https://scholar.google.com/citations?user=g2pWIEgAAAAJ&hl=en)"
 feature_row:  
-  - image_path: movie_iOM4_v1.mp4
+  - image_path: global_lg.gif
     alt: "iOM4 movie"
     title: "Ocean-Cryosphere Model iOM"
     excerpt: "The global ocean-cryosphere model iOM has been developed in collaboration with colleagues at [GFDL](https://www.gfdl.noaa.gov/ocean-and-ice-processes/)."

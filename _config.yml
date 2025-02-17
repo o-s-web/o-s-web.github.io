@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "head_shot.jpeg"
+  avatar           : "head_nobg.jpeg"
 #  name             : "Olga Sergienko"
   bio              : "Glaciologist" 
   location         : "Princeton, NJ, USA"
