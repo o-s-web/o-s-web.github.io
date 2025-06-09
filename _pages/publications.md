@@ -11,6 +11,8 @@ header:
 ---
   You can find a full list of my articles on <a href="https://scholar.google.com/citations?user=g2pWIEgAAAAJ&hl=en">my Google Scholar profile</a>.
 
+**Sergienko O.** Pine Island Glacier Ice Shelf (West Antarctica) is more sensitive to climate conditions than to rheological parameters on multidecadal timescales.
+*Phys. Rev. E* 71, e7. [doi:10.1103/n3xh-bt95](https://doi.org/10.1103/n3xh-bt95) (2025).
 
 **Sergienko O.** Treatment of the ice-shelf backpressure and buttressing in two horizontal dimensions.
 *Journal of Glaciology* 71, e7. [doi:10.1017/jog.2024.83](https://doi.org/10.1017/jog.2024.83) (2025).
