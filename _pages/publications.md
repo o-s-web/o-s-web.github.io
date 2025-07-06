@@ -36,7 +36,7 @@ Ocean Hindcast Simulations. *Journal of Advances in Modeling Earth Systems* 14, 
 [doi:10.1029/2021MS002888](https://doi.org/10.1029/2021MS002888) (2022).
 
 Haseloff, M. & **Sergienko, O.** Effects of calving and submarine melting on steady states and
-stability of buttressed marine ice sheets. *Journal of Glaciology*, 1–18. [doi:10.1017/jog.2022.29](https://doi.org/10.1017/jog.2022.29) (2022).
+stability of buttressed marine ice sheets. *Journal of Glaciology*, 1149–1166. [doi:10.1017/jog.2022.29](https://doi.org/10.1017/jog.2022.29) (2022).
 
 Huth, A., Adcroft, A., **Sergienko, O.**, & Khan, N. (2022). Ocean Currents Break up a Tabular Iceberg. *Science Advances*. 8, eabq6974. [doi:10.1126/sciadv.abq6974](https://doi.org/10.1126/sciadv.abq6974).
 
