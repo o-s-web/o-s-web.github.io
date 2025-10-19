@@ -11,7 +11,9 @@ header:
 ---
   You can find a full list of my articles on <a href="https://scholar.google.com/citations?user=g2pWIEgAAAAJ&hl=en">my Google Scholar profile</a>.
 
-Griffies, S. M., Adcroft, A., Beadling, R. L., Bushuk, M., Chang, C.-Y., Drake, H. F., ...,**Sergienko O.**,et al. (2025). The GFDL-CM4X climate model hierarchy, Part I: Model description and thermal properties. Journal of Advances in Modeling Earth Systems, 17, e2024MS004861 [doi:10.1029/2024MS004861](https://doi.org/10.1029/2024MS004861)
+Griffies, S. M., Adcroft, A., Beadling, R. L., Bushuk, M., Chang, C.-Y., Drake, H. F., ..., **Sergienko O.**, et al. (2025). The GFDL-CM4X climate model hierarchy, Part I: Model description and thermal properties. Journal of Advances in Modeling Earth Systems, 17, e2024MS004861 [doi:10.1029/2024MS004861](https://doi.org/10.1029/2024MS004861)
+
+Griffies, S. M., Adcroft, A., Beadling, R. L., Bushuk, M., Chang, C.-Y., Drake, H. F., ..., **Sergienko O.**, et al. (2025). The GFDL-CM4X Climate Model Hierarchy, Part II: Case Studies.  Journal of Advances in Modeling Earth Systems, 17, e2024MS004862 [doi:10.1029/2024MS004862]( https://doi.org/10.1029/2024MS004862)
 
 **Sergienko O.** (2025). Pine Island Glacier Ice Shelf (West Antarctica) is more sensitive to climate conditions than to rheological parameters on multidecadal timescales. *Phys. Rev. E*  [doi:10.1103/n3xh-bt95](https://doi.org/10.1103/n3xh-bt95).
 
