@@ -11,7 +11,7 @@ header:
 ---
   You can find a full list of my articles on <a href="https://scholar.google.com/citations?user=g2pWIEgAAAAJ&hl=en">my Google Scholar profile</a>.
 
-**Sergienko, O.**, Haseloff, M., Robel, A. et al. A new paradigm for understanding Earth’s marine ice sheets. Nat. Geosci. (2026). [doi:10.1038/s41561-026-01941-2](https://doi.org/10.1038/s41561-026-01941-2)
+**Sergienko, O.**, Haseloff, M., Robel, A. & Wingham, D. A new paradigm for understanding Earth’s marine ice sheets. Nat. Geosci. (2026). [doi:10.1038/s41561-026-01941-2](https://doi.org/10.1038/s41561-026-01941-2)
 
 Griffies, S. M., Adcroft, A., Beadling, R. L., Bushuk, M., Chang, C.-Y., Drake, H. F., ..., **Sergienko O.**, et al. (2025). The GFDL-CM4X climate model hierarchy, Part I: Model description and thermal properties. Journal of Advances in Modeling Earth Systems, 17, e2024MS004861 [doi:10.1029/2024MS004861](https://doi.org/10.1029/2024MS004861)
 
